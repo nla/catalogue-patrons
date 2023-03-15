@@ -1,5 +1,31 @@
 # Changelog
 
+## [3.1.0](https://github.com/nla/catalogue-patrons/compare/3.0.0...3.1.0) (2023-03-15)
+
+
+### Features
+
+* add session_token to user and refactor backchannel logout ([32d11b3](https://github.com/nla/catalogue-patrons/commit/32d11b3a67462c8c9a0ffab570f0dfaae26fbea1))
+* move user location and type logic from blacklight ([0b060de](https://github.com/nla/catalogue-patrons/commit/0b060de00f090c6ba112cfc0b4750539529c87e4))
+* re-implement feature flags ([2cfa3b1](https://github.com/nla/catalogue-patrons/commit/2cfa3b11e6f45670e1de5a2010fc0a1c3ef0453e))
+
+
+### Bug Fixes
+
+* move flipper-ui into finding-aids scope ([38d7ea6](https://github.com/nla/catalogue-patrons/commit/38d7ea652f0c0efc4ccce336edd7aa1756d0667e))
+
+
+### Miscellaneous
+
+* place user routes behind feature flag ([32fe116](https://github.com/nla/catalogue-patrons/commit/32fe1161e04594ea3d6f7a092f04e33eaeca9bcd))
+* update dependencies ([458f0da](https://github.com/nla/catalogue-patrons/commit/458f0dab0081ce1c0ff233478572ce016524d713))
+
+
+### Tests
+
+* add tests for authentication feature flag ([7f70814](https://github.com/nla/catalogue-patrons/commit/7f708140aeed156243043925b688508c00b4f55f))
+* add tests for staff and backchannel logout ([91923ee](https://github.com/nla/catalogue-patrons/commit/91923ee1656ec77d88e9c922ba54c1b093d6a9de))
+
 ## [3.0.0](https://github.com/nla/catalogue-patrons/compare/2.0.0...3.0.0) (2023-03-08)
 
 
