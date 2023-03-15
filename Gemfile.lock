@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    catalogue-patrons (3.0.0)
+    catalogue-patrons (3.1.0)
       activerecord-session_store (~> 2.0)
       brakeman
       bundler-audit
