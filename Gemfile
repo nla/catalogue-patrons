@@ -19,7 +19,7 @@ gem "strong_migrations", "~> 1.4"
 # gem "flipper-ui"
 
 group :development, :test do
-  gem "blacklight", "~> 7.32"
+  gem "blacklight", "~> 8.0"
 
   gem "debug", platforms: %i[mri mingw x64_mingw]
   gem "standard", require: false
