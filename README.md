@@ -1,3 +1,5 @@
+⚠️ This repository has been superceeded by [nla-blacklight_common](https://github.com/nla/nla-blacklight_common). All new development will happen in that repository. ⚠️
+
 # catalogue-patrons
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/nla/catalogue-patrons/verify.yml?branch=main&logo=github)](https://github.com/nla/catalogue-patrons/actions/workflows/verify.yml)
