@@ -1,5 +1,18 @@
 # Changelog
 
+## [3.2.1](https://github.com/nla/catalogue-patrons/compare/3.2.0...3.2.1) (2023-06-09)
+
+
+### Bug Fixes
+
+* post login redirect resolution ([af86aff](https://github.com/nla/catalogue-patrons/commit/af86aff1a38802be3350b359c6a16fc274634b89))
+
+
+### Miscellaneous
+
+* replace annotate_gem with annotaterb ([afdda32](https://github.com/nla/catalogue-patrons/commit/afdda32c8bfcfa3f4815c54cb249a5d17b1df335))
+* upgrade dependencies ([8659d3f](https://github.com/nla/catalogue-patrons/commit/8659d3f1a9b8521cf6fd1bcba1c7b644b2b0b279))
+
 ## [3.2.0](https://github.com/nla/catalogue-patrons/compare/3.1.0...3.2.0) (2023-05-22)
 
 

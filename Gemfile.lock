@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    catalogue-patrons (3.2.0)
+    catalogue-patrons (3.2.1)
       activerecord-session_store (~> 2.0)
       annotaterb
       brakeman
